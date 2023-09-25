@@ -82,6 +82,15 @@ body {
   display: inline-block;
 }
 
+.presenters {
+  text-align: center;
+}
+
+.presenter-block {
+  display: inline-block;
+  margin-bottom: .5em;
+}
+
 .publication-banner img {
 }
 
